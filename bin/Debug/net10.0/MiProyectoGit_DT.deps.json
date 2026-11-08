@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MiProyectoGit_DT/1.0.0": {
+        "runtime": {
+          "MiProyectoGit_DT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiProyectoGit_DT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

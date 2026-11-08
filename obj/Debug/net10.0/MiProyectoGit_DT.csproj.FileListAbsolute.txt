@@ -1,0 +1,12 @@
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.AssemblyInfoInputs.cache
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.AssemblyInfo.cs
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.sourcelink.json
+C:\Users\Daniil\MiProyectoGit_DT\bin\Debug\net10.0\MiProyectoGit_DT.deps.json
+C:\Users\Daniil\MiProyectoGit_DT\bin\Debug\net10.0\MiProyectoGit_DT.dll
+C:\Users\Daniil\MiProyectoGit_DT\bin\Debug\net10.0\MiProyectoGit_DT.pdb
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.dll
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\refint\MiProyectoGit_DT.dll
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\MiProyectoGit_DT.pdb
+C:\Users\Daniil\MiProyectoGit_DT\obj\Debug\net10.0\ref\MiProyectoGit_DT.dll
